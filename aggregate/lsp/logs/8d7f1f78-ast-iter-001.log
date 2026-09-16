@@ -1,0 +1,7 @@
+[2026-09-16T12:09:59Z] === AST ITERATION 1 START | repo=twitchyliquid64/golang-asm sha=8d7f1f78 ===
+[2026-09-16T12:09:59Z] [iter=1] PHASE START: ast repo=twitchyliquid64/golang-asm sha=8d7f1f78
+[2026-09-16T12:09:59Z] [iter=1] Building AST aggregate chunks
+[2026-09-16T12:14:57Z] [iter=1] AST chunks built count=1 triples=2926025
+[2026-09-16T12:14:57Z] [iter=1] AST .complete marker written path=/home/runner/work/forx/forx/storage/aggregate/ast/8d7f1f783b11f9a00f5bcdfcae17f5ac8f22512e/.complete
+[2026-09-16T12:14:57Z] [iter=1] PHASE END: ast elapsed_s=298 elapsed_min=5.0
+[2026-09-16T12:14:57Z] [iter=1] Wrote .next-action.json next_action=enrich path=/home/runner/work/forx/forx/storage/aggregate/.next-action.json
